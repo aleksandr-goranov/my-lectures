@@ -1,12 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1703012909 "/Users/aleksandr/Работа/lectures/lec1.tex" "/Users/aleksandr/Работа/lectures/lec1.pdf" "lec1" 1703012910
+["pdflatex"] 1703014469 "/Users/aleksandr/Работа/lectures/my-lectures/rl-definition/lec1.tex" "/Users/aleksandr/Работа/lectures/my-lectures/rl-definition/lec1.pdf" "lec1" 1703014469
   "/Users/aleksandr/Library/texlive/2021/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1699642049 3308 eee81981029f67083258db36df06e523 ""
   "/Users/aleksandr/Library/texlive/2021/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1699641901 3312 d199be9bd555944e2403193d58a0256a ""
   "/Users/aleksandr/Library/texlive/2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm" 1699641791 3240 c2435f2b5cd66d4930bc29b8df87967e ""
   "/Users/aleksandr/Library/texlive/2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1699641898 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
   "/Users/aleksandr/Library/texlive/2021/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm" 1703011226 3512 f3a56cfe95a159371df20f73d1eb107d ""
-  "/Users/aleksandr/Работа/lectures/lec1.aux" 1703012910 132 c89ce2280ab791babe7d68932f1c9de6 ""
-  "/Users/aleksandr/Работа/lectures/lec1.tex" 1703012909 1245 49814616df3f09898520c63c3ae59cf9 ""
+  "/Users/aleksandr/Работа/lectures/my-lectures/rl-definition/lec1.aux" 1703014469 132 c89ce2280ab791babe7d68932f1c9de6 ""
+  "/Users/aleksandr/Работа/lectures/my-lectures/rl-definition/lec1.tex" 1703014468 1104 2abb99eb059e59a6068620a19442bebe ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1136849721 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -58,11 +58,11 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1645947592 2724734 7969a5183166a144cf42d1c2e7394d90 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "lec1.aux" 1703012910 132 c89ce2280ab791babe7d68932f1c9de6 "pdflatex"
-  "lec1.tex" 1703012909 1245 49814616df3f09898520c63c3ae59cf9 ""
+  "lec1.aux" 1703014469 132 c89ce2280ab791babe7d68932f1c9de6 "pdflatex"
+  "lec1.tex" 1703014468 1104 2abb99eb059e59a6068620a19442bebe ""
   (generated)
+  "/Users/aleksandr/Работа/lectures/my-lectures/rl-definition/lec1.pdf"
   "lec1.log"
-  "lec1.pdf"
+  "/Users/aleksandr/Работа/lectures/my-lectures/rl-definition/lec1.log"
   "lec1.aux"
-  "/Users/aleksandr/Работа/lectures/lec1.log"
-  "/Users/aleksandr/Работа/lectures/lec1.pdf"
+  "lec1.pdf"
